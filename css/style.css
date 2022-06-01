@@ -1,0 +1,118 @@
+.centrado{
+    text-align: center;
+}
+.espacios{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+body{
+    color: #666;
+}
+
+header{
+    height: 64px;
+    background: #8BC34A;
+}
+.logo{
+    padding: 10px;
+    width: 200px;
+    }
+    nav ul{
+        float: right;
+        margin-right: 20px;
+        padding: 20px;
+
+    }
+    nav ul li{
+        display: inline-block;
+    }
+    nav ul li a{
+        padding: 20px;
+        color: white;
+        text-decoration: none;
+        text-transform: uppercase;
+
+    }
+    .splash{
+        width: 100%;
+        height: 100vh;
+        background: url(../images/mygodimdelicuous.jpg)center center fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom;
+}
+
+.splash h1{
+    background: black;
+    color: white; 
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+}
+.txt{
+    margin-top: 40vh;
+}
+.splash .btn{
+    background: #8BC34A;  
+    color: white;
+}
+.content{
+    padding: 10px;
+}
+#card1{
+    background: #80D3F8 ;
+}
+#card2{
+    background: #D0DCD6;
+}
+#card3 {
+    background: #F4E76F;
+}
+#card4{
+    background: #74F3E5;
+}
+.card{
+    margin: 10px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14)!important;
+    height: 500px;
+    max-height: 500px;
+
+}
+.card .pic{
+    margin: auto;
+
+}
+.card .pic img{
+    border-radius: 30px;
+}
+.card .btn{
+    float: right;
+    background: #8BC34A;
+    border: none;
+}
+
+#letritas{
+    background-color: #f2f2f2;
+}
+
+#letritas i{
+color: #8BC34A;
+}
+
+.pintadito{
+    background: #999;
+    padding: 2px;
+    font-size: 30px;
+    color: white;
+
+}
+
+.frases i{
+    font-size: 100px;
+}
+.frases h2{
+    padding: 30px;
+}
